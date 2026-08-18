@@ -3,5 +3,9 @@ terraform {
         alicloud = {
             source = "aliyun/alicloud"
         }
+
+        time = {
+            source = "hashicorp/time"
+        }
     }
 }

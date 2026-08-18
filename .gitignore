@@ -1,2 +1,3 @@
 environments/prod/const.tfvars
 *.exe
+terraform.tfstate
